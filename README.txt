@@ -1,5 +1,12 @@
 SVG NETWORK COLLECTOR - WINDOWS ET LINUX
 
+Cette application capture les pages SVG chargées par les lecteurs web et les
+assemble en PDF. Elle peut notamment fonctionner avec certaines publications
+de type Calaméo, catalogues et brochures en ligne.
+
+Utilisez-la uniquement pour des contenus que vous avez le droit de télécharger,
+d'archiver ou de convertir.
+
 INSTALLATION SOUS WINDOWS
 1. La version fournie par Codex peut être lancée directement avec
    « Lancer SVG Collector.cmd ».

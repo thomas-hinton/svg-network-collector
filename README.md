@@ -1,10 +1,21 @@
-# SVG Network Collector
+# SVG Network Collector — Web vers PDF
 
-Application de bureau avec interface web qui capture automatiquement les fichiers SVG chargés par les pages visitées.
+Application de bureau qui capture les pages SVG chargées par les lecteurs web et les assemble en un PDF propre et ordonné.
+
+Elle peut notamment aider à reconstituer un document PDF depuis certaines publications en ligne de type **Calaméo**, catalogues, brochures ou liseuses web qui chargent leurs pages au format SVG.
+
+> Utilisez l’application uniquement pour des publications que vous avez le droit de télécharger, d’archiver ou de convertir.
+
+![Aperçu de SVG Network Collector avec une publication chargée](docs/images/svg-network-collector-preview.png)
+
+## Du lecteur web au PDF
+
+Collez l’adresse de la publication, naviguez dans le lecteur pour charger ses pages, puis prévisualisez, triez et validez les pages capturées. L’application crée ensuite un PDF A4 multipage dans l’ordre choisi.
 
 ## Fonctionnalités
 
-- surveillance des réponses réseau SVG et SVGZ ;
+- capture des pages SVG/SVGZ chargées par les lecteurs web ;
+- prise en charge de certaines publications de type Calaméo et d’autres catalogues web ;
 - enregistrement automatique dans `Bureau/SVG Network Downloads` ;
 - galerie de prévisualisation ;
 - sélection et suppression des fichiers ;

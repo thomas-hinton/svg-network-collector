@@ -2,7 +2,7 @@
   "name": "svg-network-collector",
   "version": "1.1.0",
   "private": true,
-  "description": "Capture et organise les SVG chargés par les pages web.",
+  "description": "Capture les pages SVG de lecteurs web et les assemble en PDF.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
